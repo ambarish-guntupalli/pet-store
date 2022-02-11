@@ -1,0 +1,2 @@
+port: 3000
+petstore_url: http://petstore-demo-endpoint.execute-api.com/petstore/pets
